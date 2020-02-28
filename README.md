@@ -11,7 +11,7 @@ thereby making it standalone.
 There will be need of two files capitec-shares.js and capitec-shares.css, in the same directory and only reference the javascript file in any page where 
 the widget need to be place.
 
-I seperated the two file in to address separation of concerns, and not convolute one file with both javascript and css.
+I seperated the two file to address separation of concerns, and not convolute one file with both javascript and css.
 
 Testing the widget:
 
@@ -26,7 +26,7 @@ Testing the widget:
  - run http-server . i the directory with the files.
  - navigate to localhost:8080
  
- - I have included an index for a quick test.
+ - I have included an index.html for a quick test.
  
 
 Other:
