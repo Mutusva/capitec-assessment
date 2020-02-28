@@ -8,7 +8,7 @@ This widget was created using  HTML5, Javascript and CSS.
 
 I have used custom elements and shadow DOM to encapsulate the functionality into its own component without any reference to an HTML node on the DOM, 
 thereby making it standalone.
-There will be need of two files capitec-shares.js and capitec-shares.css, in the same directory e.g asserts/ lib and only reference the javascript file in any page where 
+There will be need of two files capitec-shares.js and capitec-shares.css, in the same directory and only reference the javascript file in any page where 
 the widget need to be place.
 
 I seperated the two file in to address separation of concerns, and not convolute one file with both javascript and css.
