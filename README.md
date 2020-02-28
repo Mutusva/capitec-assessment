@@ -4,7 +4,7 @@ https://github.com/Mutusva/capitec-assessment.git
 
 Summary:
 
-This widget is made on HTML5, Javascript and CSS.
+This widget was created using  HTML5, Javascript and CSS.
 
 I have used custom elements and shadow DOM to encapsulate the functionality into its own component without any reference to an HTML node on the DOM, 
 thereby makeing it standalone.
