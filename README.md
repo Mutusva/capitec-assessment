@@ -23,7 +23,7 @@ Testing the widget:
  - create an html page and reference the capitec-shares.js
  - add the custom element as this : <share-calculator position="left"></share-calculator>
  - position can be set to 'left', 'center' or 'right' if not supplied it defaults to center
- - run http-server . i the directory with the files.
+ - run http-server . in the directory with the files.
  - navigate to localhost:8080
  
  - I have included an index.html for a quick test.
