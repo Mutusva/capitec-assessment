@@ -28,6 +28,8 @@ Testing the widget:
  
  - I have included an index.html for a quick test.
  
+ I used the alphavantage API to get the share price for Capitec.
+ 
 
 Other:
 - For any question you can contact me.
